@@ -2,7 +2,7 @@
 
 ## Demo
 
-You can see demo [here](https://github.com/NaikKhushi21/Operating-Systems-Website/blob/main/index.html)
+You can see demo [here](https://naikkhushi21.github.io/Operating-Systems-Website/index.html)
 
 ## Languages
 
