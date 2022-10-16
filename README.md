@@ -81,8 +81,8 @@ Parva Barot
 
 ### For Disk Scheduling :
 
+Khushi Naik,
 Hetarthi Mori,
 Khushali Patel,
-Khushi Naik,
 Kshitij Surana,
 Kush Patel
