@@ -2,7 +2,7 @@
 
 ## Demo
 
-You can see demo [here](https://khushalip.github.io/OS-lab/index.html)
+You can see demo [here](https://NaikKhushi21.github.io/Operating-Systems-Website/index.html)
 
 ## Languages
 
